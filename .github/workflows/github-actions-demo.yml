@@ -2,11 +2,11 @@ name: DevOps Lab Exercise 4
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 # Controls when the workflow will run	
 on:
-	# Triggers the workflow on push or pull request events only for the "master" branch
+  # Triggers the workflow on push or pull request events only for the "master" branch
   push:
-  	branches: [ "master" ]
+    branches: [ "master" ]
   pull_request:
-  	branches: [ "master"]
+    branches: [ "master"]
 jobs:
   build:
 
