@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/COMP2156_lab/static/css/main.f48a98bf.css",
-    "main.js": "/COMP2156_lab/static/js/main.6ae53e25.js",
+    "main.js": "/COMP2156_lab/static/js/main.d9d9352a.js",
     "index.html": "/COMP2156_lab/index.html",
     "main.f48a98bf.css.map": "/COMP2156_lab/static/css/main.f48a98bf.css.map",
-    "main.6ae53e25.js.map": "/COMP2156_lab/static/js/main.6ae53e25.js.map"
+    "main.d9d9352a.js.map": "/COMP2156_lab/static/js/main.d9d9352a.js.map"
   },
   "entrypoints": [
     "static/css/main.f48a98bf.css",
-    "static/js/main.6ae53e25.js"
+    "static/js/main.d9d9352a.js"
   ]
 }
