@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "COMP2156 Lab Exercise 4",
   "main": "index.js",
+  "homepage": "https://nicolelee6.github.io/COMP2156_lab/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
